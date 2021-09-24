@@ -1,0 +1,20 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+}
+.product-name{
+    color: coral;
+    font-weight: 400;
+}
+.purchase-button {
+    margin-bottom: 10px;
+    background-color: goldenrod ;
+    width: 120px;
+    height: 25px;
+    border : 1px solid salmon ;
+    border-radius: 3px; 
+    cursor: pointer;
+}
+.icon-color{
+    color: coral;
+}

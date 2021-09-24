@@ -1,0 +1,22 @@
+
+.search-container {
+    background-color: rgba(0, 0, 0, 0.651);
+    text-align: center;
+}
+.search-input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 500px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr ;
+}
+.product-container{
+    border-right: 1px solid gray  ;
+    margin-right: 5px;
+    margin-left: 25px;
+}

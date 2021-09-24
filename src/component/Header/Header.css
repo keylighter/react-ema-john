@@ -1,0 +1,25 @@
+.logo{
+    height: 50px;
+    width: 200px;
+    margin: auto;
+}
+.header{
+    text-align: center;
+}
+
+.navbar{
+    background-color: brown;
+    padding: 18px;
+}
+.navpoint{
+    color: cornsilk;
+    width: 7px;
+    text-decoration: none;
+    text-align: start;
+    margin-right: 20px;
+    padding: 18px;
+}
+.navpoint:hover{
+    background-color: ghostwhite;
+    color: black;
+}
